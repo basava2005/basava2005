@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Basavaraj H. A.
-💻 **AI | IoT | Full Stack Web Developer**
+💻 **AI | IoT | FullStack Web-Developer**
 
 Welcome to my GitHub profile! I’m passionate about building intelligent, connected systems and creative web solutions that bridge the gap between the physical and digital worlds.
 
@@ -73,9 +73,9 @@ Welcome to my GitHub profile! I’m passionate about building intelligent, conne
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/basavaraj-h-a-335753345/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/basava2005)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basavarajha05@gmail.com)
 
 ---
 
