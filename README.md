@@ -1,9 +1,9 @@
-<!-- ======================= CYBERPUNK README START ======================= -->
+<!-- ======================= CYBERPUNK README V2 ======================= -->
 
 <!-- Animated Neon Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff00ff,100:00eaff&text=Basavaraj%20H%20A&fontSize=48&fontAlign=50&fontAlignY=35&desc=AI%20%7C%20IoT%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
 
-<!-- Background Banner (YOUR IMAGE) -->
+<!-- Background Banner -->
 <p align="center">
   <img src="assets/cyberpunk-banner.gif" alt="Cyberpunk Banner" width="100%" />
 </p>
@@ -86,12 +86,26 @@
 <!-- 🏆 Cyberpunk Trophies Section -->
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basava2005&theme=radical&no-frame=true&margin-w=10&row=1&column=7&title=Stars,Followers,Commit,Repositories,Issues,PullRequest,Contributions" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=basava2005&theme=radical&no-frame=true&margin-w=10&row=1&column=7" width="100%" />
 </p>
 
 <!-- Animated Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00eaff,100:ff00ff&height=2&section=footer" width="70%" />
+</p>
+
+<!-- 💬 Daily Quote Generator -->
+<h3 align="center">💬 Daily Cyber Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+future+is+built+by+those+who+code+it." alt="Random Quote" width="80%"/>
+</p>
+<p align="center">
+  <sub>✨ Reload this page daily for a new quote ✨</sub>
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00eaff&height=2&section=footer" width="70%" />
 </p>
 
 <!-- Connect -->
