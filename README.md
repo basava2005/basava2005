@@ -5,7 +5,6 @@
 
 <!-- Background Banner (YOUR IMAGE) -->
 <p align="center">
-  <!-- Put your file at: /assets/cyberpunk-banner.gif (or .jpg/.png) -->
   <img src="assets/cyberpunk-banner.gif" alt="Cyberpunk Banner" width="100%" />
 </p>
 
@@ -74,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basava2005&layout=compact&theme=radical&hide_border=true&title_color=ff00ff" height="150" />
 </p>
 
-<!-- Activity Graph (glowing grid vibe) -->
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=basava2005&bg_color=0d1117&color=00f5ff&line=ff00ff&point=ffffff&area=true&hide_border=true" width="95%" />
 </p>
@@ -84,12 +83,28 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00eaff&height=2&section=footer" width="70%" />
 </p>
 
+<!-- 🏆 Cyberpunk Trophies Section -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=basava2005&theme=radical&no-frame=true&margin-w=10&row=1&column=7&title=Stars,Followers,Commit,Repositories,Issues,PullRequest,Contributions" width="100%" />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00eaff,100:ff00ff&height=2&section=footer" width="70%" />
+</p>
+
 <!-- Connect -->
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/basavaraj-h-a-335753345/"><img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=111"/></a>
   <a href="mailto:basavarajha05@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/basava2005"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=basava2005&color=00f5ff&style=flat-square&label=Profile+Views"/>
 </p>
 
 <!-- Footer Wave -->
