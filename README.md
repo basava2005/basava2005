@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,nodejs,fastapi,tailwind,vite,tensorflow,opencv,git,github,linux,vscode,docker,postman" />
 </p>
 
-<!-- AI & IoT Badges -->
+<!-- AI, IoT & Design Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=111"/>
 </p>
 
 <!-- Animated Divider -->
@@ -114,6 +115,7 @@
   <a href="https://www.linkedin.com/in/basavaraj-h-a-335753345/"><img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=111"/></a>
   <a href="mailto:basavarajha05@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/basava2005"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.figma.com/@basava2005"><img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=111"/></a>
 </p>
 
 <!-- Profile Views Counter -->
@@ -124,4 +126,4 @@
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00eaff,100:ff00ff" width="100%" />
 
-<!-- ======================== CYBERPUNK README END ======================== -->  
+<!-- ======================== CYBERPUNK README END ======================== -->
