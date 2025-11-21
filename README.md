@@ -1,127 +1,140 @@
-<!-- ======================= CYBERPUNK README V2 ======================= -->
+<!-- ======================= CYBERPUNK README V3 ======================= -->
 
-<!-- Animated Neon Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff00ff,100:00eaff&text=Basavaraj%20H%20A&fontSize=48&fontAlign=50&fontAlignY=35&desc=AI%20%7C%20IoT%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
+<!-- Neon Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00eaff,100:ff00ff&text=Basavaraj%20H%20A&fontSize=50&fontAlign=50&fontAlignY=40&desc=AI%20Architect%20%7C%20IoT%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=65&animation=fadeIn" width="100%"/>
 
-<!-- Background Banner -->
+<!-- Holographic Cyber Banner -->
 <p align="center">
-  <img src="assets/cyberpunk-banner.gif" alt="Cyberpunk Banner" width="100%" />
+  <img src="assets/cyberpunk-banner.gif" width="100%" />
 </p>
 
-<!-- Glitch/Typing Headline -->
+<!-- Glitch Typing Text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Basavaraj+H+A;AI+Engineer+%7C+IoT+Innovator+%7C+Full+Stack+Developer;Welcome+to+my+Neon+Grid" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+I'm+Basavaraj+H+A;AI+%7C+IoT+%7C+Full+Stack+Engineer;System+Activated+...;Welcome+to+my+Neon+Universe" />
 </h1>
 
-<!-- Neon Role Badges -->
+<!-- Role Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_Engineer-00F5FF?style=for-the-badge&labelColor=111&logo=github&logoColor=ff00ff" />
-  <img src="https://img.shields.io/badge/IoT_Innovator-FF00FF?style=for-the-badge&labelColor=111" />
-  <img src="https://img.shields.io/badge/Full_Stack_Dev-8A2BE2?style=for-the-badge&labelColor=111" />
+  <img src="https://img.shields.io/badge/AI_Engineer-00F5FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/IoT_Developer-ff00ff?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Full_Stack-purple?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Cyber_Coder-00ffaa?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
-<!-- Animated Divider -->
+---
+
+## ⚡ **ABOUT ME**
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00eaff&height=2&section=footer" width="70%" />
+I'm an <b>AI + IoT Innovator</b> focused on building intelligent, connected & autonomous systems.<br>
+I design futuristic applications that live between hardware and software.<br><br>
+🧠 <b>Specialized in:</b> AI • IoT • System Automation • Full Stack • Security Systems <br>
+🚀 <b>Current Goal:</b> Become a world-class AI engineer & tech founder <br>
+🎧 <b>Fuel:</b> Coffee ☕ + Synthwave + Night Coding
 </p>
 
-<!-- About -->
-<h3 align="center">⚡ About Me</h3>
+---
+
+## 🔭 CURRENT FOCUS
+
 <p align="center">
-  I build smart, connected systems that fuse <b>AI</b> + <b>IoT</b> + <b>Web</b>.<br/>
-  🔭 Working on: <b>AI-powered & IoT-driven Systems</b> • 🌱 Learning: <b>Edge/Cloud AI</b><br/>
-  💬 Ask me about: <b>AI, IoT, Python, Full Stack</b> • 🎵 I debug with coffee ☕ + synthwave
+✅ LLM-based conversational systems <br>
+✅ Smart surveillance & recognition systems <br>
+✅ Autonomous IoT networks <br>
+✅ Cyber Security & Ethical AI <br>
+✅ System Intelligence & Automation
 </p>
 
-<!-- Tech Stack -->
-<h3 align="center">🧠 Tech Stack</h3>
+---
+
+## 🧠 TECH STACK
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,nodejs,fastapi,tailwind,vite,tensorflow,opencv,git,github,linux,vscode,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,mongodb,fastapi,tailwind,tensorflow,opencv,git,github,linux,docker,vscode,arduino,raspberrypi" />
 </p>
 
-<!-- AI & IoT Badges -->
+---
+
+## 🔥 AI • DATA • IOT • CLOUD
+
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/OpenCV-purple?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/Arduino-teal?style=for-the-badge&logo=arduino"/>
+<img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-red?style=for-the-badge&logo=raspberry-pi"/>
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
 </p>
 
-<!-- Animated Divider -->
+---
+
+## 🧩 FEATURED PROJECTS
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00eaff,100:ff00ff&height=2&section=footer" width="70%" />
+🧠 <b>AI Face Recognition Attendance System</b><br>
+🌱 <b>Farmer – Consumer Smart Chain (IoT + App)</b><br>
+📄 <b>AUTOSAR ARXML + BSWM AI Chatbot</b><br>
+📷 <b>Automated Class Monitoring AI System</b><br>
+🎮 <b>Smart Game Engine Projects</b>
 </p>
 
-<!-- Featured Projects -->
-<h3 align="center">🧩 Featured Projects</h3>
+---
+
+## 📊 CYBER STATS
+
 <p align="center">
-  ✨ <a href="#">AI Face Recognition Attendance System</a> &nbsp;|&nbsp;
-  🌾 <a href="#">Farm-to-Fork Health Chain</a> &nbsp;|&nbsp;
-  🧠 <a href="#">ARXML Parser Chatbot</a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=basava2005&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=basava2005&theme=radical&hide_border=true"/>
 </p>
 
-<!-- Animated Stats -->
-<h3 align="center">📊 Cyber Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basava2005&show_icons=true&theme=radical&hide_border=true&title_color=00f5ff&icon_color=ff00ff" height="170" />
-  <img src="https://streak-stats.demolab.com?user=basava2005&theme=radical&hide_border=true&ring=00f5ff&fire=ff00ff&currStreakLabel=00f5ff" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basava2005&layout=compact&theme=radical&hide_border=true&title_color=ff00ff" height="150" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basava2005&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
-<!-- Activity Graph -->
+---
+
+## 🐍 CONTRIBUTION SNAKE (Animation)
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basava2005&bg_color=0d1117&color=00f5ff&line=ff00ff&point=ffffff&area=true&hide_border=true" width="95%" />
+  <img src="https://github.com/basava2005/basava2005/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!-- Animated Divider -->
+---
+
+## 🏆 GITHUB TROPHIES
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00eaff&height=2&section=footer" width="70%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=basava2005&theme=radical&row=1&column=7"/>
 </p>
 
-<!-- 🏆 Cyberpunk Trophies Section -->
-<h3 align="center">🏆 GitHub Trophies</h3>
+---
+
+## 💬 DAILY CYBER QUOTE
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basava2005&theme=radical&no-frame=true&margin-w=10&row=1&column=7" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Innovate+or+Fade+in+the+System."/>
 </p>
 
-<!-- Animated Divider -->
+---
+
+## 🌐 CONNECT WITH ME
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00eaff,100:ff00ff&height=2&section=footer" width="70%" />
+  <a href="https://www.linkedin.com/in/basavaraj-h-a-335753345/">
+    <img src="https://img.shields.io/badge/LinkedIn-00eaff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:basavarajha05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ff3131?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/basava2005">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-<!-- 💬 Daily Quote Generator -->
-<h3 align="center">💬 Daily Cyber Quote</h3>
+---
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+future+is+built+by+those+who+code+it." alt="Random Quote" width="80%"/>
-</p>
-<p align="center">
-  <sub>✨ Reload this page daily for a new quote ✨</sub>
+  <img src="https://komarev.com/ghpvc/?username=basava2005&style=flat-square&color=00F5FF"/>
 </p>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00eaff&height=2&section=footer" width="70%" />
-</p>
-
-<!-- Connect -->
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/basavaraj-h-a-335753345/"><img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=111"/></a>
-  <a href="mailto:basavarajha05@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/basava2005"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=basava2005&color=00f5ff&style=flat-square&label=Profile+Views"/>
-</p>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00eaff,100:ff00ff" width="100%" />
-
-<!-- ======================== CYBERPUNK README END ======================== -->    
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff00ff,100:00eaff&section=footer" width="100%"/>
