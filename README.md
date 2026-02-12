@@ -51,7 +51,7 @@ I design futuristic applications that live between <b>hardware</b> and <b>softwa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,mongodb,fastapi,tailwind,tensorflow,opencv,git,github,linux,docker,vscode,arduino,raspberrypi,figma" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,mongodb,fastapi,tailwind,tensorflow,opencv,git,github,vscode,arduino,raspberrypi,figma" />
   </a>
 </p>
 
@@ -69,14 +69,12 @@ I design futuristic applications that live between <b>hardware</b> and <b>softwa
 ## 🔥 AI • DATA • IOT • CLOUD
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
