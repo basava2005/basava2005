@@ -51,7 +51,7 @@ I design futuristic applications that live between <b>hardware</b> and <b>softwa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,mongodb,fastapi,tailwind,tensorflow,opencv,git,github,vscode,arduino,raspberrypi,figma" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,mongodb,fastapi,tailwind,tensorflow,opencv,vite,git,github,vscode,arduino,raspberrypi,figma" />
   </a>
 </p>
 
